@@ -1258,7 +1258,7 @@ function scene36() {
     square(200, 200, 220);
     fill(255, 170, 51);
     square(200, 200, 200);
-    image(bookimg, 100, 100);
+    image(APLITimg, 100, 100);
     textSize(25);
     fill(250);
     text("Sign up!", 175, 290);
@@ -1268,7 +1268,7 @@ function scene36() {
     square(400, 200, 220);
     fill(0, 55, 179);
     square(400, 200, 200);
-    image(nobookimg, 300, 100);
+    image(noAPLITimg, 300, 100);
     textSize(25);
     fill(250);
     text("Nah.", 330, 290);
